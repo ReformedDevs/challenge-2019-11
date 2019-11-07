@@ -1,0 +1,10 @@
+leaderboard:
+  fields: # an array of fields (in order) for the leaderboard
+  solutionField: # which field contains the solution
+  rankingField: # which field will be used for sorting rank
+oops:
+  fields: # must be an array subset of leaderboard fields
+solution: # the value and type of the correct solution
+  value:
+  type: # valid types: int, float, boolean, string
+testCount: # the number of times to run each submission
