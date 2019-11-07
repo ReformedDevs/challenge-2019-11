@@ -35,17 +35,19 @@ The game will play out as follows:
 ## Tiles
 ​
 Bananagrams contains the following number of tiles in the "BUNCH":
-> 2: J, K, Q, X, Z
-> 3: B, C, F, H, M, P, V, W, Y
-> 4: G
-> 5: L
-> 6: D, S, U
-> 8: N
-> 9: T, R
-> 11: O
-> 12: I
-> 13: A
-> 18: E
+```
+2: J, K, Q, X, Z
+3: B, C, F, H, M, P, V, W, Y
+4: G
+5: L
+6: D, S, U
+8: N
+9: T, R
+11: O
+12: I
+13: A
+18: E
+```
 
 #### Output
 
