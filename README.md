@@ -51,7 +51,7 @@ Bananagrams contains the following number of tiles in the "BUNCH":
 
 Once your program has finished the game the following will need to be returned to STDOUT:
 ```
-Github Name, Program Language, Total Time, Rounds Taken, Notes
+Github Name, Program Language, Total Time (in ms), Rounds Taken, Notes
 [ASCII String presenting the final state of your board]
 ```
 ​
